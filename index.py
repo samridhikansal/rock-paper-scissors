@@ -1,5 +1,7 @@
 import random
+from operations import Add
 
+print (Add(1,2))
 print("Following are the Rules of the Game: \n 1. Rock vs Paper -> Paper Wins \n 2. Rock vs Scissors -> Rock Wins \n 3. Paper vs Scissors -> Scissors Wins")
 print ("Enter 1 for Rock , 2 for Paper and 3 for Scissors")
 print ("The side with three Wins will be the winner")
